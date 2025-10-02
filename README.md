@@ -1,4 +1,3 @@
 # proyecto-parcial
 
- ###
- Angely Sofia Burgos Carvajal
+ ## Angely Sofia Burgos Carvajal
